@@ -10,5 +10,5 @@
 .gitignore text
 *.md text
 
-**.class linguist-language=Java
-**.jar linguist-language=Java
+*.class linguist-language=Java
+*.jar linguist-language=Java
